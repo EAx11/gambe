@@ -1,4 +1,6 @@
-Atividade Prática
+# Lista de Presença - Atividade de Laboratório Git/GitHub 
+20250001 Fulano de Tal 
+20250002 Ciclano da Silva 
 
 Nome: 
     -Felipe SexMaker
